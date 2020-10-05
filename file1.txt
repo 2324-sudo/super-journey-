@@ -1,0 +1,6 @@
+i am using keyboard to input text.
+cat command reads my keyboard input, converts it to stdout which is instantly redirected to file1.txt
+t is, until i press CTRL +D
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[[C[C[C[C +D
+
+
